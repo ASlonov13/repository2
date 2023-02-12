@@ -2,7 +2,10 @@
 capybara
 
 #Inky@DESKTOP-QRDGB0B MINGW64 ~/Desktop/Git test
-$ git config --global user.name Inky                                              git config --global user.email kardanov0709@gmail.com                           git config --global core.autocrlf true                                          git config --global core.safecrlf true
+$ git config --global user.name Inky
+  git config --global user.email kardanov0709@gmail.com                           
+  git config --global core.autocrlf true                                          
+  git config --global core.safecrlf true
 usage: git config [<options>]
 
 Config file location
